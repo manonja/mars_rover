@@ -44,6 +44,9 @@ The output would be:
 (1, 0, S) LOST
 
 ### Quick Start
-- Clone the project
+- Clone the project in a new directory
+- `sbt run`
+
+For mac users, make sure to have sbt installed: `brew install sbt`
 
 
