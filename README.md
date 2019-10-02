@@ -49,4 +49,8 @@ The output would be:
 
 For mac users, make sure to have sbt installed: `brew install sbt`
 
+### Possible Improvements
+- Takes input from the console 
+- Combine HandleMoveX() and HandleMoveY() into one function
+
 
